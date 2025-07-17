@@ -1,4 +1,4 @@
-# Electric Vehicle Data Visualization Project
+# Electric Vehicle Data Visualisation Project
 
 This repository showcases a data visualization project focused on Electric Vehicle (EV) registration data. The goal is to use visual storytelling to uncover trends, patterns, and insights in EV adoption across regions, manufacturers, and vehicle types.
 
