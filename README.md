@@ -1,12 +1,12 @@
 # Electric Vehicle Data Visualisation Project
 
-This repository showcases a data visualization project focused on Electric Vehicle (EV) registration data. The goal is to use visual storytelling to uncover trends, patterns, and insights in EV adoption across regions, manufacturers, and vehicle types.
+This repository showcases a data visualisation project focused on Electric Vehicle (EV) registration data. The goal is to use visual storytelling to uncover trends, patterns, and insights in EV adoption across regions, manufacturers, and vehicle types.
 
 ---
 
 ## 🎯 Project Objective
 
-- Transform raw EV registration data into clear, insightful visualizations
+- Transform raw EV registration data into clear, insightful visualisations
 - Identify market leaders, geographic adoption hotspots, and EV type trends
 - Communicate data-driven stories using charts and graphs
 
@@ -26,7 +26,7 @@ This repository showcases a data visualization project focused on Electric Vehic
 
 | File Name       | Description                                         |
 |------------------|-----------------------------------------------------|
-| `ev_data.ipynb`  | Main Jupyter Notebook with visualizations and insights |
+| `ev_data.ipynb`  | Main Jupyter Notebook with visualisations and insights |
 | `README.md`      | Documentation and project overview                  |
 
 ---
@@ -57,14 +57,14 @@ This repository showcases a data visualization project focused on Electric Vehic
 - **Python** with:
   - `pandas` for data wrangling
   - `matplotlib` and `seaborn` for static plots
-  - `plotly` (if used) for interactive visualizations
+  - `plotly` (if used) for interactive visualisations
   - `numpy` for basic numerical operations
 
 ---
 
 ## 💡 Why This Project Matters
 
-- Visualization helps turn complex datasets into understandable insights
+- Visualisation helps turn complex datasets into understandable insights
 - Supports better decision-making in EV policy, marketing, and infrastructure planning
 - Encourages clean mobility and sustainable transport adoption
 
@@ -74,7 +74,7 @@ This repository showcases a data visualization project focused on Electric Vehic
 
 **Ashwani Kumar**  
 AI and Data Science Student  
-Focus: Data Analytics, Visualization & Sustainability Projects
+Focus: Data Analytics, Visualisation & Sustainability Projects
 
 ---
 
